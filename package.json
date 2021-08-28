@@ -1,0 +1,19 @@
+{
+  "name": "ecmasciptcourse",
+  "version": "1.0.0",
+  "description": "learning EcmaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1DiegoG1/ecmaSciptCourse.git"
+  },
+  "author": "Diego González",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/1DiegoG1/ecmaSciptCourse/issues"
+  },
+  "homepage": "https://github.com/1DiegoG1/ecmaSciptCourse#readme"
+}
